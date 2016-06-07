@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:36
+#+DATE: 2016-06-08 6:37
 #+TITLE: 雜阿含經
 #+PROPERTY: CBETA_ID T02n0099
 #+PROPERTY: ID KR6a0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 099
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6a0099_T_019-0133a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
@@ -793,8 +793,8 @@
 有雙鐵輪在兩脇下，熾然旋轉，還燒其身，¶
 乘虛而行，啼哭號呼。」乃至佛告諸比丘：「此¶
 眾生者，過去世時，於此舍衛國迦葉佛法中¶
-出家作沙彌，持石蜜餅供養眾僧，盜取¶
-二餅著於掖下，緣斯罪故，已地獄中受¶
+出家作沙彌，持石蜜[麩-夫+并]供養眾僧，盜取¶
+二[麩-夫+并]著於掖下，緣斯罪故，已地獄中受¶
 無量苦，地獄餘罪，今得此身，續受斯苦。諸¶
 比丘！如大目犍連所見，真實不異，當受¶
 持之。」

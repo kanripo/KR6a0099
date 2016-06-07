@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:36
+#+DATE: 2016-06-08 6:37
 #+TITLE: 雜阿含經
 #+PROPERTY: CBETA_ID T02n0099
 #+PROPERTY: ID KR6a0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 099
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6a0099_T_009-0056a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
@@ -693,7 +693,7 @@
 尊者阿難語純陀言：「是¶
 故，尊者！而如來、應、等正覺所知所見，說識¶
 亦無常。譬如士夫持斧入山，見芭蕉樹，¶
-謂堪材用，斷根、截斫󰪑葉葉、剝皮，求其堅¶
+謂堪材用，斷根、截斫󰪑葉[芸/木]、剝皮，求其堅¶
 實，剝至於盡，都無堅處。如是多聞聖弟子¶
 正觀眼識，耳、鼻、舌、身、意識。當正觀時，都¶
 無可取，無可取故，無所著，無所著故，自¶
@@ -982,7 +982,7 @@
 
 故說是呪術章句，所謂：¶
 
-「塢躭婆隷　躭婆隷　航陸波婆躭陸　㮈¶
+「塢躭婆隷　躭婆隷　[舟*冗]陸波婆躭陸　㮈¶
 渧　肅㮈渧　抧跋渧　文那移　三摩移¶
 　檀諦　尼羅枳施　婆羅拘閇塢隷　塢娛隷」¶
 悉波呵¶

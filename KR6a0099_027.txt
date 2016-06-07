@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:36
+#+DATE: 2016-06-08 6:37
 #+TITLE: 雜阿含經
 #+PROPERTY: CBETA_ID T02n0099
 #+PROPERTY: ID KR6a0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 099
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6a0099_T_027-0191a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
@@ -739,7 +739,7 @@
 　善通法律者，
 　應聽況餘者，¶
 　聞說如實法，
-　專心黠慧聽，¶
+　專心[烈-列+(里*吉)]慧聽，¶
 　於佛所說法，
 　得離欲歡喜，¶
 　歡喜身猗息，

@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 6:36
+#+DATE: 2016-06-08 6:37
 #+TITLE: 雜阿含經
 #+PROPERTY: CBETA_ID T02n0099
 #+PROPERTY: ID KR6a0099
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 2, No. 099
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS 
 #+PROPERTY: LASTPB <pb:KR6a0099_T_035-0250a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 35
 ¶
@@ -625,7 +625,7 @@
 阿¶
 難答言：「莫逼世尊！世尊疲極。」
 
-如是須跋陀¶
+如是須[跳-兆+(乏-之+(犮-、))]陀¶
 羅再三請尊者阿難，尊者阿難亦再三不許。¶
 
 須跋陀羅言：「我聞古昔出家耆年大師所說，¶
